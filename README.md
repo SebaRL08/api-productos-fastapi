@@ -12,6 +12,10 @@ API REST desarrollada con Python y FastAPI para la administración de productos 
 - Uvicorn
 - Pydantic (validación de datos)
 - Swagger UI / OpenAPI (documentación interactiva)
+- MySQL
+- SQLAlchemy
+- PyMySQL
+- python-dotenv
 
 ## Estructura del proyecto
 
