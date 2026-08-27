@@ -1,5 +1,5 @@
 # api-productos-fastapi
-Desarrollar una API REST funcional utilizando Python y FastAPI, aplicando principios de programación, estructuras de datos, manejo de solicitudes HTTP, validación de información y documentación automática de servicios.
+Desarrollar una API REST funcional utilizando Python y FastAPI, aplicando principios de programación, estructuras de datos, manejo de solicitudes HTTP, validación de información y documentación automática de los servicios. Además, se busca comprender el funcionamiento de una API y la comunicación entre el cliente y el servidor mediante diferentes métodos HTTP.
 # API de Productos - FastAPI
 
 API REST desarrollada con Python y FastAPI para la administración de productos de una empresa. Permite consultar, registrar, actualizar y eliminar productos, aplicando validaciones de datos y manejo de errores mediante códigos de estado HTTP.
